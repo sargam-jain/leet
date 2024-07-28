@@ -15,4 +15,12 @@ leet
 |  |
 | ------- |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Sargamjain813/leet/tree/master/2171-second-minimum-time-to-reach-destination) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Sargamjain813/leet/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Sargamjain813/leet/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

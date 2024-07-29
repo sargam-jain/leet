@@ -23,4 +23,16 @@ leet
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Sargamjain813/leet/tree/master/0069-sqrtx) |
+## Array
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/Sargamjain813/leet/tree/master/1511-count-number-of-teams) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/Sargamjain813/leet/tree/master/1511-count-number-of-teams) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/Sargamjain813/leet/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->

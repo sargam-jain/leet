@@ -28,6 +28,7 @@ leet
 | ------- |
 | [1196-filling-bookcase-shelves](https://github.com/Sargamjain813/leet/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Sargamjain813/leet/tree/master/1511-count-number-of-teams) |
+| [2727-number-of-senior-citizens](https://github.com/Sargamjain813/leet/tree/master/2727-number-of-senior-citizens) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -42,6 +43,7 @@ leet
 |  |
 | ------- |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sargamjain813/leet/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2727-number-of-senior-citizens](https://github.com/Sargamjain813/leet/tree/master/2727-number-of-senior-citizens) |
 ## Stack
 |  |
 | ------- |

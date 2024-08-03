@@ -28,6 +28,7 @@ leet
 | ------- |
 | [1196-filling-bookcase-shelves](https://github.com/Sargamjain813/leet/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Sargamjain813/leet/tree/master/1511-count-number-of-teams) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sargamjain813/leet/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Sargamjain813/leet/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/Sargamjain813/leet/tree/master/2727-number-of-senior-citizens) |
 ## Dynamic Programming
@@ -53,4 +54,12 @@ leet
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Sargamjain813/leet/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Hash Table
+|  |
+| ------- |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sargamjain813/leet/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+## Sorting
+|  |
+| ------- |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sargamjain813/leet/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 <!---LeetCode Topics End-->

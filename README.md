@@ -20,6 +20,7 @@ leet
 | ------- |
 | [0069-sqrtx](https://github.com/Sargamjain813/leet/tree/master/0069-sqrtx) |
 | [0264-ugly-number-ii](https://github.com/Sargamjain813/leet/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/Sargamjain813/leet/tree/master/0650-2-keys-keyboard) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,6 +42,7 @@ leet
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Sargamjain813/leet/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/Sargamjain813/leet/tree/master/0650-2-keys-keyboard) |
 | [1196-filling-bookcase-shelves](https://github.com/Sargamjain813/leet/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Sargamjain813/leet/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sargamjain813/leet/tree/master/1756-minimum-deletions-to-make-string-balanced) |

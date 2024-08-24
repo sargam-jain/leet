@@ -20,6 +20,7 @@ leet
 | ------- |
 | [0069-sqrtx](https://github.com/Sargamjain813/leet/tree/master/0069-sqrtx) |
 | [0264-ugly-number-ii](https://github.com/Sargamjain813/leet/tree/master/0264-ugly-number-ii) |
+| [0564-find-the-closest-palindrome](https://github.com/Sargamjain813/leet/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/Sargamjain813/leet/tree/master/0650-2-keys-keyboard) |
 ## Binary Search
 |  |
@@ -54,6 +55,7 @@ leet
 ## String
 |  |
 | ------- |
+| [0564-find-the-closest-palindrome](https://github.com/Sargamjain813/leet/tree/master/0564-find-the-closest-palindrome) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sargamjain813/leet/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2727-number-of-senior-citizens](https://github.com/Sargamjain813/leet/tree/master/2727-number-of-senior-citizens) |
 ## Stack

@@ -62,6 +62,7 @@ leet
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sargamjain813/leet/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Sargamjain813/leet/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sargamjain813/leet/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Sliding Window
 |  |
@@ -81,6 +82,7 @@ leet
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sargamjain813/leet/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Sargamjain813/leet/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sargamjain813/leet/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -124,4 +126,5 @@ leet
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sargamjain813/leet/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Sargamjain813/leet/tree/master/0776-n-ary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->

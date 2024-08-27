@@ -10,10 +10,12 @@ leet
 ## Graph
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/Sargamjain813/leet/tree/master/1325-path-with-maximum-probability) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Sargamjain813/leet/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Shortest Path
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/Sargamjain813/leet/tree/master/1325-path-with-maximum-probability) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Sargamjain813/leet/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Math
 |  |
@@ -34,6 +36,7 @@ leet
 | [0624-maximum-distance-in-arrays](https://github.com/Sargamjain813/leet/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sargamjain813/leet/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1196-filling-bookcase-shelves](https://github.com/Sargamjain813/leet/tree/master/1196-filling-bookcase-shelves) |
+| [1325-path-with-maximum-probability](https://github.com/Sargamjain813/leet/tree/master/1325-path-with-maximum-probability) |
 | [1511-count-number-of-teams](https://github.com/Sargamjain813/leet/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sargamjain813/leet/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Sargamjain813/leet/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -97,6 +100,7 @@ leet
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Sargamjain813/leet/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sargamjain813/leet/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1325-path-with-maximum-probability](https://github.com/Sargamjain813/leet/tree/master/1325-path-with-maximum-probability) |
 ## Binary Tree
 |  |
 | ------- |

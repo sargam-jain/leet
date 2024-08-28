@@ -6,6 +6,7 @@ leet
 ## Breadth-First Search
 |  |
 | ------- |
+| [2035-count-sub-islands](https://github.com/Sargamjain813/leet/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Sargamjain813/leet/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Graph
 |  |
@@ -39,6 +40,7 @@ leet
 | [1325-path-with-maximum-probability](https://github.com/Sargamjain813/leet/tree/master/1325-path-with-maximum-probability) |
 | [1511-count-number-of-teams](https://github.com/Sargamjain813/leet/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sargamjain813/leet/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2035-count-sub-islands](https://github.com/Sargamjain813/leet/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Sargamjain813/leet/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Sargamjain813/leet/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/Sargamjain813/leet/tree/master/2727-number-of-senior-citizens) |
@@ -131,4 +133,13 @@ leet
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sargamjain813/leet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sargamjain813/leet/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2035-count-sub-islands](https://github.com/Sargamjain813/leet/tree/master/2035-count-sub-islands) |
+## Union Find
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/Sargamjain813/leet/tree/master/2035-count-sub-islands) |
+## Matrix
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/Sargamjain813/leet/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->

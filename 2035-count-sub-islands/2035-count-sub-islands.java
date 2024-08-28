@@ -12,7 +12,7 @@ class Solution {
     private boolean dfs(int r, int c, int[][] grid1, int[][] grid2) {
         if (r < 0 || r >= grid1.length || c < 0 || c >= grid1[0].length || grid2[r][c] == 0)
             return true;
-        else if (grid1[r][c] != grid2[r][c])
+        else if (grid1[r][c] != 1 && grid2[r][c] == 1)
             return false;
         grid2[r][c] = 0;
         boolean res = true;

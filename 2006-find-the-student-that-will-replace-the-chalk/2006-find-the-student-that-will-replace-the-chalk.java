@@ -4,7 +4,7 @@ class Solution {
         for(int i=0; i<chalk.length; i++){
             totalChalk += chalk[i];
         }
-        k = (int)(k % totalChalk);
+        k %= totalChalk;
         for(int i=0; i<chalk.length; i++){
             if(chalk[i] > k){
                 return i;

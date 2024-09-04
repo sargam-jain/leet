@@ -40,6 +40,7 @@ leet
 | [0040-combination-sum-ii](https://github.com/Sargamjain813/leet/tree/master/0040-combination-sum-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/Sargamjain813/leet/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sargamjain813/leet/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0906-walking-robot-simulation](https://github.com/Sargamjain813/leet/tree/master/0906-walking-robot-simulation) |
 | [1196-filling-bookcase-shelves](https://github.com/Sargamjain813/leet/tree/master/1196-filling-bookcase-shelves) |
 | [1325-path-with-maximum-probability](https://github.com/Sargamjain813/leet/tree/master/1325-path-with-maximum-probability) |
 | [1511-count-number-of-teams](https://github.com/Sargamjain813/leet/tree/master/1511-count-number-of-teams) |
@@ -84,6 +85,7 @@ leet
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Sargamjain813/leet/tree/master/0264-ugly-number-ii) |
+| [0906-walking-robot-simulation](https://github.com/Sargamjain813/leet/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sargamjain813/leet/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sargamjain813/leet/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Sorting
@@ -157,6 +159,7 @@ leet
 ## Simulation
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/Sargamjain813/leet/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sargamjain813/leet/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Sargamjain813/leet/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sargamjain813/leet/tree/master/2132-convert-1d-array-into-2d-array) |

@@ -27,6 +27,7 @@ leet
 | ------- |
 | [0069-sqrtx](https://github.com/Sargamjain813/leet/tree/master/0069-sqrtx) |
 | [0264-ugly-number-ii](https://github.com/Sargamjain813/leet/tree/master/0264-ugly-number-ii) |
+| [0539-minimum-time-difference](https://github.com/Sargamjain813/leet/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Sargamjain813/leet/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/Sargamjain813/leet/tree/master/0650-2-keys-keyboard) |
 | [2155-find-missing-observations](https://github.com/Sargamjain813/leet/tree/master/2155-find-missing-observations) |
@@ -41,6 +42,7 @@ leet
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Sargamjain813/leet/tree/master/0040-combination-sum-ii) |
+| [0539-minimum-time-difference](https://github.com/Sargamjain813/leet/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Sargamjain813/leet/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sargamjain813/leet/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0906-walking-robot-simulation](https://github.com/Sargamjain813/leet/tree/master/0906-walking-robot-simulation) |
@@ -76,6 +78,7 @@ leet
 ## String
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/Sargamjain813/leet/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Sargamjain813/leet/tree/master/0564-find-the-closest-palindrome) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Sargamjain813/leet/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sargamjain813/leet/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -105,6 +108,7 @@ leet
 ## Sorting
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/Sargamjain813/leet/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sargamjain813/leet/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sargamjain813/leet/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Tree

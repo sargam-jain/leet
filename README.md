@@ -42,6 +42,7 @@ leet
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Sargamjain813/leet/tree/master/0040-combination-sum-ii) |
+| [0179-largest-number](https://github.com/Sargamjain813/leet/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Sargamjain813/leet/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Sargamjain813/leet/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sargamjain813/leet/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -78,6 +79,7 @@ leet
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Sargamjain813/leet/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Sargamjain813/leet/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Sargamjain813/leet/tree/master/0564-find-the-closest-palindrome) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sargamjain813/leet/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -110,6 +112,7 @@ leet
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Sargamjain813/leet/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Sargamjain813/leet/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sargamjain813/leet/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sargamjain813/leet/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -156,6 +159,7 @@ leet
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Sargamjain813/leet/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Sargamjain813/leet/tree/master/0624-maximum-distance-in-arrays) |
 ## Bit Manipulation
 |  |

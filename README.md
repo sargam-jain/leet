@@ -107,6 +107,7 @@ leet
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sargamjain813/leet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Sargamjain813/leet/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Sargamjain813/leet/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sargamjain813/leet/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Sargamjain813/leet/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2727-number-of-senior-citizens](https://github.com/Sargamjain813/leet/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Sargamjain813/leet/tree/master/2755-extra-characters-in-a-string) |
@@ -119,6 +120,7 @@ leet
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sargamjain813/leet/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Sargamjain813/leet/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sargamjain813/leet/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sargamjain813/leet/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sargamjain813/leet/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Sliding Window
 |  |
@@ -199,12 +201,14 @@ leet
 | [0567-permutation-in-string](https://github.com/Sargamjain813/leet/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sargamjain813/leet/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1923-sentence-similarity-iii](https://github.com/Sargamjain813/leet/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sargamjain813/leet/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sargamjain813/leet/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Greedy
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Sargamjain813/leet/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Sargamjain813/leet/tree/master/0624-maximum-distance-in-arrays) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sargamjain813/leet/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Bit Manipulation
 |  |
 | ------- |

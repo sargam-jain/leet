@@ -108,6 +108,7 @@ leet
 | [0567-permutation-in-string](https://github.com/Sargamjain813/leet/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sargamjain813/leet/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sargamjain813/leet/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1304-longest-happy-string](https://github.com/Sargamjain813/leet/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Sargamjain813/leet/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sargamjain813/leet/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sargamjain813/leet/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -194,6 +195,7 @@ leet
 | [0264-ugly-number-ii](https://github.com/Sargamjain813/leet/tree/master/0264-ugly-number-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sargamjain813/leet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sargamjain813/leet/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1304-longest-happy-string](https://github.com/Sargamjain813/leet/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Sargamjain813/leet/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Sargamjain813/leet/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sargamjain813/leet/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -230,6 +232,7 @@ leet
 | [0624-maximum-distance-in-arrays](https://github.com/Sargamjain813/leet/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sargamjain813/leet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sargamjain813/leet/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1304-longest-happy-string](https://github.com/Sargamjain813/leet/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sargamjain813/leet/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sargamjain813/leet/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Sargamjain813/leet/tree/master/2616-maximal-score-after-applying-k-operations) |

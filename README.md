@@ -9,6 +9,7 @@ leet
 | [1484-linked-list-in-binary-tree](https://github.com/Sargamjain813/leet/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/Sargamjain813/leet/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Sargamjain813/leet/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sargamjain813/leet/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Sargamjain813/leet/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Sargamjain813/leet/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Graph
@@ -81,6 +82,7 @@ leet
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sargamjain813/leet/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Sargamjain813/leet/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sargamjain813/leet/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sargamjain813/leet/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sargamjain813/leet/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Sargamjain813/leet/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/Sargamjain813/leet/tree/master/2727-number-of-senior-citizens) |
@@ -191,6 +193,7 @@ leet
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sargamjain813/leet/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Sargamjain813/leet/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sargamjain813/leet/tree/master/1484-linked-list-in-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sargamjain813/leet/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Sargamjain813/leet/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Sargamjain813/leet/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Design
@@ -224,6 +227,7 @@ leet
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sargamjain813/leet/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Sargamjain813/leet/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sargamjain813/leet/tree/master/1484-linked-list-in-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sargamjain813/leet/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Sargamjain813/leet/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Sargamjain813/leet/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Data Stream
@@ -280,6 +284,7 @@ leet
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sargamjain813/leet/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sargamjain813/leet/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/Sargamjain813/leet/tree/master/2035-count-sub-islands) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sargamjain813/leet/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Sargamjain813/leet/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Union Find
 |  |

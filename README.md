@@ -45,6 +45,7 @@ leet
 | [0729-my-calendar-i](https://github.com/Sargamjain813/leet/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Sargamjain813/leet/tree/master/0731-my-calendar-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sargamjain813/leet/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Sargamjain813/leet/tree/master/2586-longest-square-streak-in-an-array) |
 ## Array
 |  |
 | ------- |
@@ -85,6 +86,7 @@ leet
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sargamjain813/leet/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sargamjain813/leet/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sargamjain813/leet/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Sargamjain813/leet/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Sargamjain813/leet/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/Sargamjain813/leet/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Sargamjain813/leet/tree/master/2755-extra-characters-in-a-string) |
@@ -101,6 +103,7 @@ leet
 | [1511-count-number-of-teams](https://github.com/Sargamjain813/leet/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sargamjain813/leet/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Sargamjain813/leet/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Sargamjain813/leet/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Sargamjain813/leet/tree/master/2755-extra-characters-in-a-string) |
 ## Binary Indexed Tree
 |  |
@@ -171,6 +174,7 @@ leet
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sargamjain813/leet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Sargamjain813/leet/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sargamjain813/leet/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Sargamjain813/leet/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Sargamjain813/leet/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/Sargamjain813/leet/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sargamjain813/leet/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -186,6 +190,7 @@ leet
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sargamjain813/leet/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sargamjain813/leet/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sargamjain813/leet/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Sargamjain813/leet/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Sargamjain813/leet/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Tree
 |  |

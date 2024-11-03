@@ -125,6 +125,7 @@ leet
 | [0539-minimum-time-difference](https://github.com/Sargamjain813/leet/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Sargamjain813/leet/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Sargamjain813/leet/tree/master/0567-permutation-in-string) |
+| [0812-rotate-string](https://github.com/Sargamjain813/leet/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sargamjain813/leet/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sargamjain813/leet/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/Sargamjain813/leet/tree/master/1197-parsing-a-boolean-expression) |
@@ -379,6 +380,7 @@ leet
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Sargamjain813/leet/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/Sargamjain813/leet/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |

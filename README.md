@@ -28,6 +28,7 @@ leet
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Sargamjain813/leet/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Sargamjain813/leet/tree/master/0069-sqrtx) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sargamjain813/leet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Sargamjain813/leet/tree/master/0264-ugly-number-ii) |

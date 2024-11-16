@@ -108,6 +108,7 @@ leet
 | [3291-find-if-array-can-be-sorted](https://github.com/Sargamjain813/leet/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sargamjain813/leet/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sargamjain813/leet/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Sargamjain813/leet/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -180,6 +181,7 @@ leet
 | [0567-permutation-in-string](https://github.com/Sargamjain813/leet/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sargamjain813/leet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Sargamjain813/leet/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Sargamjain813/leet/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |

@@ -45,6 +45,7 @@ leet
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sargamjain813/leet/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Sargamjain813/leet/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Sargamjain813/leet/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Sargamjain813/leet/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sargamjain813/leet/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sargamjain813/leet/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sargamjain813/leet/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -63,6 +64,7 @@ leet
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sargamjain813/leet/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Sargamjain813/leet/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Sargamjain813/leet/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Sargamjain813/leet/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/Sargamjain813/leet/tree/master/0906-walking-robot-simulation) |
 | [1002-maximum-width-ramp](https://github.com/Sargamjain813/leet/tree/master/1002-maximum-width-ramp) |
 | [1196-filling-bookcase-shelves](https://github.com/Sargamjain813/leet/tree/master/1196-filling-bookcase-shelves) |
@@ -180,6 +182,7 @@ leet
 | ------- |
 | [0567-permutation-in-string](https://github.com/Sargamjain813/leet/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sargamjain813/leet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Sargamjain813/leet/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Sargamjain813/leet/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Sargamjain813/leet/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
@@ -253,6 +256,7 @@ leet
 | [0264-ugly-number-ii](https://github.com/Sargamjain813/leet/tree/master/0264-ugly-number-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sargamjain813/leet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sargamjain813/leet/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Sargamjain813/leet/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/Sargamjain813/leet/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Sargamjain813/leet/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Sargamjain813/leet/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -360,6 +364,7 @@ leet
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Sargamjain813/leet/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Sargamjain813/leet/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sargamjain813/leet/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Sargamjain813/leet/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/Sargamjain813/leet/tree/master/1694-make-sum-divisible-by-p) |
@@ -446,4 +451,12 @@ leet
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sargamjain813/leet/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Sargamjain813/leet/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Sargamjain813/leet/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->

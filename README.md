@@ -9,6 +9,7 @@ leet
 | [1484-linked-list-in-binary-tree](https://github.com/Sargamjain813/leet/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/Sargamjain813/leet/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Sargamjain813/leet/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sargam-jain/leet/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sargamjain813/leet/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Sargamjain813/leet/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Sargamjain813/leet/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -18,12 +19,14 @@ leet
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sargamjain813/leet/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/Sargamjain813/leet/tree/master/1325-path-with-maximum-probability) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Sargamjain813/leet/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sargam-jain/leet/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2803-modify-graph-edge-weights](https://github.com/Sargamjain813/leet/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/Sargamjain813/leet/tree/master/1325-path-with-maximum-probability) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Sargamjain813/leet/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sargam-jain/leet/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2803-modify-graph-edge-weights](https://github.com/Sargamjain813/leet/tree/master/2803-modify-graph-edge-weights) |
 ## Math
 |  |
@@ -96,6 +99,7 @@ leet
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Sargamjain813/leet/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Sargamjain813/leet/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sargamjain813/leet/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sargam-jain/leet/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/Sargamjain813/leet/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sargamjain813/leet/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Sargamjain813/leet/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -270,6 +274,7 @@ leet
 | [1304-longest-happy-string](https://github.com/Sargamjain813/leet/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Sargamjain813/leet/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Sargamjain813/leet/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sargam-jain/leet/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sargamjain813/leet/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Sargamjain813/leet/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2803-modify-graph-edge-weights](https://github.com/Sargamjain813/leet/tree/master/2803-modify-graph-edge-weights) |
@@ -358,6 +363,7 @@ leet
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sargamjain813/leet/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2035-count-sub-islands](https://github.com/Sargamjain813/leet/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sargamjain813/leet/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sargam-jain/leet/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/Sargamjain813/leet/tree/master/2411-spiral-matrix-iv) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Sargamjain813/leet/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Simulation

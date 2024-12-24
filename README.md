@@ -16,6 +16,7 @@ leet
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Sargamjain813/leet/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Sargamjain813/leet/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sargam-jain/leet/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/sargam-jain/leet/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Graph
 |  |
 | ------- |
@@ -26,6 +27,7 @@ leet
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sargam-jain/leet/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sargam-jain/leet/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/Sargamjain813/leet/tree/master/2803-modify-graph-edge-weights) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/sargam-jain/leet/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Shortest Path
 |  |
 | ------- |
@@ -301,6 +303,7 @@ leet
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Sargamjain813/leet/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Sargamjain813/leet/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/sargam-jain/leet/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/sargam-jain/leet/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Design
 |  |
 | ------- |
@@ -422,6 +425,7 @@ leet
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sargamjain813/leet/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Sargamjain813/leet/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/sargam-jain/leet/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/sargam-jain/leet/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Union Find
 |  |
 | ------- |

@@ -76,6 +76,7 @@ leet
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Sargamjain813/leet/tree/master/0040-combination-sum-ii) |
 | [0179-largest-number](https://github.com/Sargamjain813/leet/tree/master/0179-largest-number) |
+| [0494-target-sum](https://github.com/sargam-jain/leet/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/Sargamjain813/leet/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Sargamjain813/leet/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sargamjain813/leet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -151,6 +152,7 @@ leet
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sargamjain813/leet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Sargamjain813/leet/tree/master/0264-ugly-number-ii) |
+| [0494-target-sum](https://github.com/sargam-jain/leet/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/Sargamjain813/leet/tree/master/0650-2-keys-keyboard) |
 | [1196-filling-bookcase-shelves](https://github.com/Sargamjain813/leet/tree/master/1196-filling-bookcase-shelves) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sargamjain813/leet/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -361,6 +363,7 @@ leet
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Sargamjain813/leet/tree/master/0040-combination-sum-ii) |
+| [0494-target-sum](https://github.com/sargam-jain/leet/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Sargamjain813/leet/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sargamjain813/leet/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Two Pointers

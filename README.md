@@ -437,6 +437,7 @@ leet
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/sargam-jain/leet/tree/master/0191-number-of-1-bits) |
 | [0476-number-complement](https://github.com/Sargamjain813/leet/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sargamjain813/leet/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Sargamjain813/leet/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -623,4 +624,8 @@ leet
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/sargam-jain/leet/tree/master/2201-valid-arrangement-of-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/sargam-jain/leet/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->

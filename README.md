@@ -538,6 +538,7 @@ leet
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sargam-jain/leet/tree/master/0021-merge-two-sorted-lists) |
 | [0432-all-oone-data-structure](https://github.com/Sargamjain813/leet/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/Sargamjain813/leet/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sargamjain813/leet/tree/master/1484-linked-list-in-binary-tree) |
@@ -568,6 +569,7 @@ leet
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sargam-jain/leet/tree/master/0021-merge-two-sorted-lists) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sargamjain813/leet/tree/master/0241-different-ways-to-add-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Sargamjain813/leet/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Sargamjain813/leet/tree/master/1667-find-kth-bit-in-nth-binary-string) |

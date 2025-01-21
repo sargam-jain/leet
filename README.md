@@ -125,6 +125,7 @@ leet
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Sargamjain813/leet/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Sargamjain813/leet/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sargamjain813/leet/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/sargam-jain/leet/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/Sargamjain813/leet/tree/master/2155-find-missing-observations) |
 | [2164-two-best-non-overlapping-events](https://github.com/sargam-jain/leet/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sargamjain813/leet/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -499,6 +500,7 @@ leet
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sargam-jain/leet/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2035-count-sub-islands](https://github.com/Sargamjain813/leet/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sargamjain813/leet/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/sargam-jain/leet/tree/master/2145-grid-game) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sargam-jain/leet/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/Sargamjain813/leet/tree/master/2411-spiral-matrix-iv) |
 | [2685-first-completely-painted-row-or-column](https://github.com/sargam-jain/leet/tree/master/2685-first-completely-painted-row-or-column) |
@@ -532,6 +534,7 @@ leet
 | [1940-maximum-xor-for-each-query](https://github.com/Sargamjain813/leet/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sargamjain813/leet/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sargam-jain/leet/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/sargam-jain/leet/tree/master/2145-grid-game) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sargamjain813/leet/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sargam-jain/leet/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/sargam-jain/leet/tree/master/3427-special-array-ii) |

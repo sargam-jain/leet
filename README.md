@@ -20,6 +20,7 @@ leet
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Sargamjain813/leet/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Sargamjain813/leet/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sargam-jain/leet/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/sargam-jain/leet/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/sargam-jain/leet/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Graph
 |  |
@@ -158,6 +159,7 @@ leet
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sargam-jain/leet/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2727-number-of-senior-citizens](https://github.com/Sargamjain813/leet/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Sargamjain813/leet/tree/master/2755-extra-characters-in-a-string) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/sargam-jain/leet/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sargam-jain/leet/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/sargam-jain/leet/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Sargamjain813/leet/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -487,6 +489,7 @@ leet
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/sargam-jain/leet/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sargamjain813/leet/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Sargamjain813/leet/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/sargam-jain/leet/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/sargam-jain/leet/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/sargam-jain/leet/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Union Find
@@ -494,6 +497,7 @@ leet
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sargamjain813/leet/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/Sargamjain813/leet/tree/master/2035-count-sub-islands) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/sargam-jain/leet/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -508,6 +512,7 @@ leet
 | [2411-spiral-matrix-iv](https://github.com/Sargamjain813/leet/tree/master/2411-spiral-matrix-iv) |
 | [2685-first-completely-painted-row-or-column](https://github.com/sargam-jain/leet/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sargam-jain/leet/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/sargam-jain/leet/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Sargamjain813/leet/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Simulation
 |  |

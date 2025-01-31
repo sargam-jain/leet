@@ -8,6 +8,7 @@ leet
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/sargam-jain/leet/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sargam-jain/leet/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0854-making-a-large-island](https://github.com/sargam-jain/leet/tree/master/0854-making-a-large-island) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sargamjain813/leet/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sargam-jain/leet/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/sargam-jain/leet/tree/master/1558-course-schedule-iv) |
@@ -95,6 +96,7 @@ leet
 | [0729-my-calendar-i](https://github.com/Sargamjain813/leet/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Sargamjain813/leet/tree/master/0731-my-calendar-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sargam-jain/leet/tree/master/0780-max-chunks-to-make-sorted) |
+| [0854-making-a-large-island](https://github.com/sargam-jain/leet/tree/master/0854-making-a-large-island) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Sargamjain813/leet/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/Sargamjain813/leet/tree/master/0906-walking-robot-simulation) |
 | [0952-word-subsets](https://github.com/sargam-jain/leet/tree/master/0952-word-subsets) |
@@ -481,6 +483,7 @@ leet
 | [0386-lexicographical-numbers](https://github.com/Sargamjain813/leet/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sargam-jain/leet/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sargamjain813/leet/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0854-making-a-large-island](https://github.com/sargam-jain/leet/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sargamjain813/leet/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Sargamjain813/leet/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sargamjain813/leet/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -497,6 +500,7 @@ leet
 ## Union Find
 |  |
 | ------- |
+| [0854-making-a-large-island](https://github.com/sargam-jain/leet/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sargamjain813/leet/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/Sargamjain813/leet/tree/master/2035-count-sub-islands) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/sargam-jain/leet/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -505,6 +509,7 @@ leet
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/sargam-jain/leet/tree/master/0407-trapping-rain-water-ii) |
+| [0854-making-a-large-island](https://github.com/sargam-jain/leet/tree/master/0854-making-a-large-island) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sargamjain813/leet/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sargamjain813/leet/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sargam-jain/leet/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |

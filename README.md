@@ -172,6 +172,7 @@ leet
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sargam-jain/leet/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sargamjain813/leet/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3427-special-array-ii](https://github.com/sargam-jain/leet/tree/master/3427-special-array-ii) |
+| [3429-special-array-i](https://github.com/sargam-jain/leet/tree/master/3429-special-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sargamjain813/leet/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Sargamjain813/leet/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sargam-jain/leet/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |

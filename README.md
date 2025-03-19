@@ -181,6 +181,7 @@ leet
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sargam-jain/leet/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/sargam-jain/leet/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/sargam-jain/leet/tree/master/3429-special-array-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sargam-jain/leet/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sargamjain813/leet/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Sargamjain813/leet/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sargam-jain/leet/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -291,6 +292,7 @@ leet
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Sargamjain813/leet/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/sargam-jain/leet/tree/master/2868-continuous-subarrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sargam-jain/leet/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sargam-jain/leet/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Sargamjain813/leet/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
@@ -492,6 +494,7 @@ leet
 | [2792-neighboring-bitwise-xor](https://github.com/sargam-jain/leet/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sargamjain813/leet/tree/master/3291-find-if-array-can-be-sorted) |
 | [3394-minimum-array-end](https://github.com/Sargamjain813/leet/tree/master/3394-minimum-array-end) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sargam-jain/leet/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -570,6 +573,7 @@ leet
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sargamjain813/leet/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sargam-jain/leet/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/sargam-jain/leet/tree/master/3427-special-array-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sargam-jain/leet/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Linked List
 |  |
 | ------- |
@@ -675,6 +679,7 @@ leet
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Sargamjain813/leet/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2868-continuous-subarrays](https://github.com/sargam-jain/leet/tree/master/2868-continuous-subarrays) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sargam-jain/leet/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Queue
 |  |
 | ------- |

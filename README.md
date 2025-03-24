@@ -187,6 +187,7 @@ leet
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sargam-jain/leet/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/sargam-jain/leet/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/sargam-jain/leet/tree/master/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/sargam-jain/leet/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sargam-jain/leet/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sargamjain813/leet/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Sargamjain813/leet/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -366,6 +367,7 @@ leet
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sargam-jain/leet/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sargamjain813/leet/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sargamjain813/leet/tree/master/3291-find-if-array-can-be-sorted) |
+| [3430-count-days-without-meetings](https://github.com/sargam-jain/leet/tree/master/3430-count-days-without-meetings) |
 ## Tree
 |  |
 | ------- |

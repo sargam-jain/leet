@@ -64,6 +64,7 @@ leet
 | [0670-maximum-swap](https://github.com/Sargamjain813/leet/tree/master/0670-maximum-swap) |
 | [2155-find-missing-observations](https://github.com/Sargamjain813/leet/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Sargamjain813/leet/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3001-apply-operations-to-maximize-score](https://github.com/sargam-jain/leet/tree/master/3001-apply-operations-to-maximize-score) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sargam-jain/leet/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
 |  |
@@ -181,6 +182,7 @@ leet
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Sargamjain813/leet/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/sargam-jain/leet/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sargam-jain/leet/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/sargam-jain/leet/tree/master/3001-apply-operations-to-maximize-score) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sargamjain813/leet/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sargam-jain/leet/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sargamjain813/leet/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -288,6 +290,7 @@ leet
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sargamjain813/leet/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/sargam-jain/leet/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sargamjain813/leet/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3001-apply-operations-to-maximize-score](https://github.com/sargam-jain/leet/tree/master/3001-apply-operations-to-maximize-score) |
 ## Sliding Window
 |  |
 | ------- |
@@ -369,6 +372,7 @@ leet
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sargam-jain/leet/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sargamjain813/leet/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sargam-jain/leet/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/sargam-jain/leet/tree/master/3001-apply-operations-to-maximize-score) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sargamjain813/leet/tree/master/3291-find-if-array-can-be-sorted) |
 | [3430-count-days-without-meetings](https://github.com/sargam-jain/leet/tree/master/3430-count-days-without-meetings) |
 ## Tree
@@ -484,6 +488,7 @@ leet
 | [2509-minimize-xor](https://github.com/sargam-jain/leet/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Sargamjain813/leet/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sargam-jain/leet/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3001-apply-operations-to-maximize-score](https://github.com/sargam-jain/leet/tree/master/3001-apply-operations-to-maximize-score) |
 | [3195-separate-black-and-white-balls](https://github.com/Sargamjain813/leet/tree/master/3195-separate-black-and-white-balls) |
 ## Bit Manipulation
 |  |
@@ -605,6 +610,7 @@ leet
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Sargamjain813/leet/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3001-apply-operations-to-maximize-score](https://github.com/sargam-jain/leet/tree/master/3001-apply-operations-to-maximize-score) |
 ## Counting
 |  |
 | ------- |
@@ -687,6 +693,7 @@ leet
 | [1002-maximum-width-ramp](https://github.com/Sargamjain813/leet/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sargam-jain/leet/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sargamjain813/leet/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [3001-apply-operations-to-maximize-score](https://github.com/sargam-jain/leet/tree/master/3001-apply-operations-to-maximize-score) |
 ## Enumeration
 |  |
 | ------- |

@@ -229,6 +229,7 @@ leet
 | [0539-minimum-time-difference](https://github.com/Sargamjain813/leet/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Sargamjain813/leet/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Sargamjain813/leet/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/sargam-jain/leet/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Sargamjain813/leet/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sargamjain813/leet/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/sargam-jain/leet/tree/master/0952-word-subsets) |
@@ -313,6 +314,7 @@ leet
 | [0432-all-oone-data-structure](https://github.com/Sargamjain813/leet/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/Sargamjain813/leet/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sargamjain813/leet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0768-partition-labels](https://github.com/sargam-jain/leet/tree/master/0768-partition-labels) |
 | [0906-walking-robot-simulation](https://github.com/Sargamjain813/leet/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sargamjain813/leet/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/sargam-jain/leet/tree/master/0952-word-subsets) |
@@ -456,6 +458,7 @@ leet
 | ------- |
 | [0567-permutation-in-string](https://github.com/Sargamjain813/leet/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sargamjain813/leet/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0768-partition-labels](https://github.com/sargam-jain/leet/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sargam-jain/leet/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/sargam-jain/leet/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sargamjain813/leet/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -475,6 +478,7 @@ leet
 | [0624-maximum-distance-in-arrays](https://github.com/Sargamjain813/leet/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sargamjain813/leet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Sargamjain813/leet/tree/master/0670-maximum-swap) |
+| [0768-partition-labels](https://github.com/sargam-jain/leet/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sargam-jain/leet/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sargamjain813/leet/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Sargamjain813/leet/tree/master/1304-longest-happy-string) |

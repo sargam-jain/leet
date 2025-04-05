@@ -62,6 +62,7 @@ leet
 | [0564-find-the-closest-palindrome](https://github.com/Sargamjain813/leet/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/Sargamjain813/leet/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/Sargamjain813/leet/tree/master/0670-maximum-swap) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sargam-jain/leet/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2155-find-missing-observations](https://github.com/Sargamjain813/leet/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Sargamjain813/leet/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sargam-jain/leet/tree/master/3001-apply-operations-to-maximize-score) |
@@ -136,6 +137,7 @@ leet
 | [1923-sentence-similarity-iii](https://github.com/Sargamjain813/leet/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/sargam-jain/leet/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/Sargamjain813/leet/tree/master/1940-maximum-xor-for-each-query) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sargam-jain/leet/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sargamjain813/leet/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Sargamjain813/leet/tree/master/2035-count-sub-islands) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Sargamjain813/leet/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -456,6 +458,7 @@ leet
 | [0040-combination-sum-ii](https://github.com/Sargamjain813/leet/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/sargam-jain/leet/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Sargamjain813/leet/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sargam-jain/leet/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sargamjain813/leet/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Two Pointers
 |  |
@@ -508,6 +511,7 @@ leet
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Sargamjain813/leet/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sargamjain813/leet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/Sargamjain813/leet/tree/master/1940-maximum-xor-for-each-query) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sargam-jain/leet/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sargam-jain/leet/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sargamjain813/leet/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sargam-jain/leet/tree/master/2308-divide-array-into-equal-pairs) |
@@ -706,6 +710,7 @@ leet
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sargam-jain/leet/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sargamjain813/leet/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Queue
 |  |
@@ -731,4 +736,8 @@ leet
 | ------- |
 | [1558-course-schedule-iv](https://github.com/sargam-jain/leet/tree/master/1558-course-schedule-iv) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sargam-jain/leet/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sargam-jain/leet/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->

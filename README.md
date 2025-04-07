@@ -94,6 +94,7 @@ leet
 | [0040-combination-sum-ii](https://github.com/Sargamjain813/leet/tree/master/0040-combination-sum-ii) |
 | [0179-largest-number](https://github.com/Sargamjain813/leet/tree/master/0179-largest-number) |
 | [0407-trapping-rain-water-ii](https://github.com/sargam-jain/leet/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/sargam-jain/leet/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/sargam-jain/leet/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/Sargamjain813/leet/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Sargamjain813/leet/tree/master/0624-maximum-distance-in-arrays) |
@@ -204,6 +205,7 @@ leet
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sargamjain813/leet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Sargamjain813/leet/tree/master/0264-ugly-number-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/sargam-jain/leet/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/sargam-jain/leet/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/Sargamjain813/leet/tree/master/0650-2-keys-keyboard) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sargam-jain/leet/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |

@@ -86,6 +86,7 @@ leet
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sargam-jain/leet/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/sargam-jain/leet/tree/master/2665-minimum-time-to-repair-cars) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sargamjain813/leet/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sargam-jain/leet/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sargam-jain/leet/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/sargam-jain/leet/tree/master/3427-special-array-ii) |
 ## Array
@@ -188,6 +189,7 @@ leet
 | [2888-minimum-index-of-a-valid-split](https://github.com/sargam-jain/leet/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sargam-jain/leet/tree/master/3001-apply-operations-to-maximize-score) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sargam-jain/leet/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sargam-jain/leet/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sargamjain813/leet/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sargam-jain/leet/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sargamjain813/leet/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -227,6 +229,7 @@ leet
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/Sargamjain813/leet/tree/master/1511-count-number-of-teams) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sargam-jain/leet/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## String
 |  |
 | ------- |
@@ -299,6 +302,7 @@ leet
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/sargam-jain/leet/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sargamjain813/leet/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sargam-jain/leet/tree/master/3001-apply-operations-to-maximize-score) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sargam-jain/leet/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Sliding Window
 |  |
 | ------- |
@@ -438,6 +442,7 @@ leet
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sargam-jain/leet/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/Sargamjain813/leet/tree/master/2803-modify-graph-edge-weights) |
 | [2868-continuous-subarrays](https://github.com/sargam-jain/leet/tree/master/2868-continuous-subarrays) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sargam-jain/leet/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sargam-jain/leet/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Tree
 |  |
@@ -693,6 +698,7 @@ leet
 | ------- |
 | [0729-my-calendar-i](https://github.com/Sargamjain813/leet/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Sargamjain813/leet/tree/master/0731-my-calendar-ii) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sargam-jain/leet/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Ordered Set
 |  |
 | ------- |
@@ -711,6 +717,7 @@ leet
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sargam-jain/leet/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sargamjain813/leet/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sargam-jain/leet/tree/master/3001-apply-operations-to-maximize-score) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sargam-jain/leet/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Enumeration
 |  |
 | ------- |

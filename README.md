@@ -82,6 +82,7 @@ leet
 | [2164-two-best-non-overlapping-events](https://github.com/sargam-jain/leet/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Sargamjain813/leet/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Sargamjain813/leet/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2280-count-good-triplets-in-an-array](https://github.com/sargam-jain/leet/tree/master/2280-count-good-triplets-in-an-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sargamjain813/leet/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sargam-jain/leet/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/sargam-jain/leet/tree/master/2665-minimum-time-to-repair-cars) |
@@ -154,6 +155,7 @@ leet
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sargam-jain/leet/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/sargam-jain/leet/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Sargamjain813/leet/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2280-count-good-triplets-in-an-array](https://github.com/sargam-jain/leet/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sargam-jain/leet/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sargam-jain/leet/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sargamjain813/leet/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -229,6 +231,7 @@ leet
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/Sargamjain813/leet/tree/master/1511-count-number-of-teams) |
+| [2280-count-good-triplets-in-an-array](https://github.com/sargam-jain/leet/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sargam-jain/leet/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## String
 |  |
@@ -698,12 +701,14 @@ leet
 | ------- |
 | [0729-my-calendar-i](https://github.com/Sargamjain813/leet/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Sargamjain813/leet/tree/master/0731-my-calendar-ii) |
+| [2280-count-good-triplets-in-an-array](https://github.com/sargam-jain/leet/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sargam-jain/leet/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Sargamjain813/leet/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Sargamjain813/leet/tree/master/0731-my-calendar-ii) |
+| [2280-count-good-triplets-in-an-array](https://github.com/sargam-jain/leet/tree/master/2280-count-good-triplets-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/sargam-jain/leet/tree/master/2868-continuous-subarrays) |
 ## Doubly-Linked List
 |  |
@@ -742,6 +747,7 @@ leet
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/sargam-jain/leet/tree/master/0191-number-of-1-bits) |
+| [2280-count-good-triplets-in-an-array](https://github.com/sargam-jain/leet/tree/master/2280-count-good-triplets-in-an-array) |
 ## Topological Sort
 |  |
 | ------- |
@@ -751,4 +757,8 @@ leet
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sargam-jain/leet/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/sargam-jain/leet/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->

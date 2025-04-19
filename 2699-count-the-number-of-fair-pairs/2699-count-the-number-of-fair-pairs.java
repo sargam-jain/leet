@@ -1,17 +1,25 @@
-class Solution {
-  public long countFairPairs(int[] nums, int lower, int upper) {
-   
-    Arrays.sort(nums);
-    return countLess(nums, upper) - countLess(nums, lower - 1);
-  }
+import java.util.Arrays;
 
-  private long countLess(int[] nums, int sum) {
-    long res = 0;
-    for (int i = 0, j = nums.length - 1; i < j; ++i) {
-      while (i < j && nums[i] + nums[j] > sum)
-        --j;
-      res += j - i;
+class Solution {
+    public long countFairPairs(int[] nums, int lower, int upper) {
+        Arrays.sort(nums);
+        return countPairsWithSumLessThan(nums, upper + 1) - countPairsWithSumLessThan(nums, lower);
     }
-    return res;
-  }
+
+    private long countPairsWithSumLessThan(int[] nums, int target) {
+        int left = 0, right = nums.length - 1;
+        long count = 0;
+
+        while (left < right) {
+            int sum = nums[left] + nums[right];
+            if (sum < target) {
+                count += (right - left);
+                left++;
+            } else {
+                right--;
+            }
+        }
+
+        return count;
+    }
 }
